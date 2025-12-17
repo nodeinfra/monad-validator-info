@@ -1,8 +1,8 @@
 {
-  "id": 139,
+  "id": 81,
   "name": "Staker Space",
-  "secp": "0314d835a20132081eb9fff0c5c9da5c17883134408dfae8404ae4d22041453540",
-  "bls": "8c8f299dc547c0dd9b83ccb3c933206884fb18b4bf8123f56b9dd9fbd3f7ddc9f5031f165756169cec2e7abbed606027",
+  "secp": "03eb54d047e974e003ddf9ee89bc2ea4aa3983a095eb2f8d247a77a9f63b1af560",
+  "bls": "8a41bdc23f079ed21f3c22b35eb70fe9d60fc816c5afc422f17fcb7b49af3d2eaa3359bcc2966e3da724e4ae964698a6",
   "website": "https://staker.space",
   "description": "Where your stake stays yours, we just keep it running.",
   "logo": "https://raw.githubusercontent.com/StakerSpace/assets/main/logo.png",
